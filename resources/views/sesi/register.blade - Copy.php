@@ -46,8 +46,8 @@
           @endif
         </div>
         <div class="card-footer text-center">
-          <a href="/" class="btn btn-link">Sudah punya akun?</a>
-          <a href="/" class="btn btn-link">Login</a>
+          <a href="/sesi/lupapw" class="btn btn-link">Lupa Password?</a>
+          <a href="/sesi/register" class="btn btn-link">Register</a>
         </div>
       </div>
     </div>
